@@ -5,7 +5,7 @@
     fetch="https://android.googlesource.com/" />
   <remote  name="grapheneos"
     fetch="https://github.com/GrapheneOS/"
-    revision="refs/heads/13"  />
+    revision="refs/tags/TQ1A.230105.001.2023010300"  />
   <default revision="refs/tags/android-13.0.0_r0.54"
     remote="aosp" sync-j="4" />
 
